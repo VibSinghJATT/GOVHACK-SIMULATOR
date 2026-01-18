@@ -1,0 +1,1 @@
+Explains rooms, hosting, joining.
